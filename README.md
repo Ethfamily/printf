@@ -14,5 +14,5 @@ The contents in this repository are  carried out during Full Stack Software Engi
 
 ## Authors :black_nib:
 
-* Brennan D Baraban <[Bethel](https://github.com/Ethfamily)>
-* Michael Klein <[Melkamneh](https://github.com/melkam5)>
+* Bethel <[Bethel](https://github.com/Ethfamily)>
+* Melkamneh Klein <[Melkamneh](https://github.com/melkam5)>

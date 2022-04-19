@@ -95,4 +95,3 @@ buffer_t *init_buffer(void)
 	return (output);
 
 }
-

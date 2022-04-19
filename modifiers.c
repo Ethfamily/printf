@@ -99,4 +99,3 @@ unsigned int print_neg_width(buffer_t *output, unsigned int printed,
 	return (retvalue);
 
 }
-
