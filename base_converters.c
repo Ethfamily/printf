@@ -26,11 +26,11 @@ unsigned int convert_ubase(buffer_t *output,
 unsigned int convert_sbase(buffer_t *output, long int num, char *base,
 		unsigned char flags, int wid, int prec)
 {
-	
+	int size;
 	char digit, pad = '0';
 	unsigned int ret = 1;
 
-	for (int size = 0; *(base + size);)
+	for (size = 0; *(base + size);)
 		size++;
 
 	if (num >= size || num <= -size)
