@@ -6,7 +6,7 @@
 #include <unistd.h>
 
 
-/*  */
+/* the first stage for libaray */
 
 
 
@@ -22,7 +22,7 @@
 #define NEG_FLAG ((flags >> 4) & 1)
 
 
-/*   */
+/* the above are the thing we are defining  */
 
 #define SHORT 1
 #define LONG 2
